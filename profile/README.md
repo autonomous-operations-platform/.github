@@ -1,6 +1,6 @@
 # Autonomous Operations Platform
 
-Autonomous Operations lets data centers run with minimal personnel demand. The platform automates routine tasks and known-issue remediation with fast, deterministic logic, and adds AI-driven analysis and learning on top.
+Autonomous Operations is an open-source platform for automated data center operations. It combines fast, deterministic remediation with AI-driven analysis to reduce operational toil and enable data centers to run with minimal human intervention.
 
 The platform consists of two main components:
 
@@ -11,14 +11,9 @@ Both components are grounded by the [**Operational Context Graph (OCG)**](https:
 
 The system is designed for air-gapped environments, follows a zero-trust security model, and is built to comply with the EU AI Act.
 
-## Documentation
+---
 
-- [Project Documentation](https://autonomous-operations.dev)
-
-## Development & Community
-
-- [Backlog](https://github.com/autonomous-operations-platform/backlog)
-- [Contributing](../CONTRIBUTING.md)
+[Documentation](https://autonomous-operations.dev) · [Contributing](../CONTRIBUTING.md) · [Backlog](https://github.com/autonomous-operations-platform/backlog)
 
 ## Additional Resources
 
