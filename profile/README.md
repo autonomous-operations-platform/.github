@@ -5,7 +5,7 @@ Autonomous Operations is an open-source platform for automated data center opera
 The platform consists of two main components:
 
 - **Autonomous Operations Satellite (AOS)**: Mission-critical execution engine that continuously collects signals, detects known issues, and executes remediation without human intervention.
-- **Analysis and Automation Platform (AAP)**: AI-driven learning engine that analyzes incidents, recommends solutions, and generates new automation that is then deployed back to the satellites.
+- **Insight and Automation Platform (IAP)**: AI-driven learning engine that analyzes incidents, recommends solutions, and generates new automation that is then deployed back to the satellites.
 
 Both components are grounded by the [**Operational Context Graph (OCG)**](https://github.com/operational-context-graph), a central store of operational knowledge that represents the data center as a semantic network of entities and relationships.
 
